@@ -9,7 +9,8 @@ The goal of this pipeline is to reduce some of the manual labor involved to be m
 
 Help documentation:
 
-usage: pcibex.py [-h] -i INPUT -o OUTPUT
+usage: 
+´´´pcibex.py [-h] -i INPUT -o OUTPUT
 
 optional arguments: 
   -h, --help            show this help message and exit
