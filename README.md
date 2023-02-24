@@ -1,13 +1,13 @@
 # pcibex
-Description:
+Description: 
 Python and R scripts to make pre-processing of speech production data collected with Prolific/PCIbex easier
 
-Why:
+Why: 
 When collecting speech production data through Prolific/PCIbex, there are a lot of files that have to be moved various places, and doing this can be error prone. 
 The goal of this pipeline is to reduce some of the manual labor involved to be more efficient and less error prone.
 
 
-Help documentation:
+Help documentation: 
 usage: pcibex.py [-h] -i INPUT -o OUTPUT
 
 optional arguments:
