@@ -10,7 +10,8 @@ The goal of this pipeline is to reduce some of the manual labor involved to be m
 Help documentation:
 
 usage: 
-´´´pcibex.py [-h] -i INPUT -o OUTPUT
+```
+pcibex.py [-h] -i INPUT -o OUTPUT
 
 optional arguments: 
   -h, --help            show this help message and exit
@@ -18,6 +19,7 @@ optional arguments:
                         Please enter the full path of the input directory.
   -o OUTPUT, --output OUTPUT
                         Please enter the full path of the output directory.
+```
                                               
 What the pipeline does: 
 1. Unzips all zip files in the directory (participant audio files are saved to the server in zip files)
