@@ -1,5 +1,5 @@
 # pcibex
-Description: 
+Description:
 
 Python and R scripts to make pre-processing of speech production data collected with Prolific/PCIbex easier
 
@@ -14,7 +14,6 @@ Help documentation:
 usage: pcibex.py [-h] -i INPUT -o OUTPUT
 
 optional arguments:
-
   -h, --help            show this help message and exit
   -i INPUT, --input INPUT
                         Please enter the full path of the input directory.
