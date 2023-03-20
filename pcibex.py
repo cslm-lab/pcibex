@@ -203,7 +203,7 @@ for f in files_webm:
 
 
 
-# create folder for each participant and move wav files there
+# create directory for each participant and move wav files there
 tidy_path = os.path.join(input_dir, 'tidy.csv')
 df = pd.read_csv(tidy_path)
 
